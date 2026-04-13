@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "Mada",
+        "beschreibung": "lina",
+        "status": "offen"
+    },
+    "2": {
+        "name": "Abhängigkeiten installieren",
+        "beschreibung": "Benötigte Libraries installieren und virtuelle Umgebung prüfen.",
+        "status": "offen"
+    },
+    "3": {
+        "name": "Bug reproduzieren",
+        "beschreibung": "Gemeldeten Bug nachstellen und Ursache im Code identifizieren.",
+        "status": "offen"
+    },
+    "4": {
+        "name": "Code refaktorisieren",
+        "beschreibung": "Unübersichtliche Funktionen vereinfachen und Variablennamen verbessern.",
+        "status": "offen"
+    },
+    "5": {
+        "name": "Commit erstellen",
+        "beschreibung": "Änderungen committen und eine aussagekräftige Commit-Message schreiben.",
+        "status": "offen"
+    },
+    "45": {
+        "name": "Madalina",
+        "beschreibung": "Motogna",
+        "status": "erledigt"
+    }
+}

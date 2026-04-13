@@ -1,0 +1,61 @@
+{
+    "Focaccia": {
+        "zutaten": [
+            "500g Mehl",
+            "350ml Wasser",
+            "7g Hefe",
+            "Olivenöl",
+            "Rosmarin",
+            "Salz"
+        ],
+        "anleitung": "Zutaten mischen, Teig 1 Stunde gehen lassen, bei 220°C 20 Minuten backen.",
+        "image": "focaccia.jpg"
+    },
+    "Pizza Napolitana": {
+        "zutaten": [
+            "500g Mehl",
+            "325ml Wasser",
+            "3g Hefe",
+            "Tomatensauce",
+            "Mozzarella",
+            "Basilikum"
+        ],
+        "anleitung": "Teig vorbereiten, 8-24 Stunden fermentieren lassen, Belag hinzufügen und bei 250°C backen.",
+        "image": "pizza_napolitana.jpg"
+    },
+    "Spaghetti Aglio e Olio": {
+        "zutaten": [
+            "400g Spaghetti",
+            "6 Knoblauchzehen",
+            "Olivenöl",
+            "Chiliflocken",
+            "Petersilie"
+        ],
+        "anleitung": "Pasta kochen, Knoblauch in Olivenöl anbraten, Pasta mit Öl und Petersilie mischen.",
+        "image": "spaghetti_aglio_e_olio.jpg"
+    },
+    "Pasta Carbonara": {
+        "zutaten": [
+            "200g Spaghetti",
+            "100g Speck",
+            "2 Eier",
+            "50g Parmesan",
+            "Salz",
+            "Pfeffer"
+        ],
+        "anleitung": "Spaghetti kochen. Speck in der Pfanne anbraten. Eier mit Parmesan vermischen. Alles zusammenmischen und mit Salz und Pfeffer abschmecken.",
+        "image": "pasta_carbonara.jpg"
+    },
+    "Chicken Salat": {
+        "zutaten": [
+            "200g Hähnchenbrust",
+            "Salat",
+            "Tomaten",
+            "Gurke",
+            "Olivenöl",
+            "Zitrone"
+        ],
+        "anleitung": "Hähnchen braten und in Stücke schneiden. Gemüse schneiden. Alles mischen und mit Olivenöl und Zitrone würzen.",
+        "image": "chicken_salat.jpg"
+    }
+}
